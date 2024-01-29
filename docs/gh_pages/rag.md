@@ -1,4 +1,4 @@
-# PebbloSafeLoader for Langchain
+# Pebblo SafeLoader for Langchain
 
 ## Overview
 
